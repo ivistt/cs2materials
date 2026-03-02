@@ -120,11 +120,7 @@ function makeCard(item) {
       <div class="card-title">${item.title}</div>
       <div class="card-desc">${item.desc || ''}</div>
       <div class="card-actions">
-        ${item.url
-          ? `<button class="copy-btn" onclick="copyLink('${item.url}', this)">📋 Копировать</button>
-             <a class="visit-btn" href="${item.url}" target="_blank" rel="noopener">→ Открыть</a>`
-          : `<div style="color:var(--text3);font-size:12px;width:100%;text-align:center;padding:6px">Ссылка не указана</div>`
-        }
+        ${item.url ? `<a class="visit-btn" href="${item.url}" target="_blank" rel="noopener">→ Открыть</a>` : ''}
       </div>
     </div>`;
   return card;
