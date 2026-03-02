@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>HUB — Полезные материалы</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter+Tight:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<!-- HEADER -->
+<header>
+  <div class="header-inner">
+    <a class="logo" href="#" onclick="state.activeCategory='Все'; state.page=1; render(); return false;">
+      <img class="logo-img" src="./logo.svg" alt="MaterialHUB">
+    </a>
+  </div>
+</header>
+
+
+
+<!-- MAIN -->
+<div class="main">
+
+  <aside class="sidebar">
+    <div class="sidebar-title">Категории</div>
+    <div class="cat-list" id="catList"></div>
+  </aside>
+
+  <div class="content">
+    <div class="content-header">
+      <div>
+        <div class="content-title" id="activeTitle">Все материалы</div>
+        <div class="content-count" id="activeCount">0 материалов</div>
+      </div>
+    </div>
+
+    <div class="search-bar">
+      <span class="search-icon">🔍</span>
+      <input type="text" placeholder="Поиск материалов..." id="searchInput" oninput="handleSearch()">
+    </div>
+
+    <div class="cards-grid" id="cardsGrid"></div>
+    <div class="pagination" id="pagination"></div>
+  </div>
+
+</div>
+
+<script src="main.js"></script>
+</body>
+</html>

@@ -1,0 +1,325 @@
+{
+  "categories": ["Все", "Инструменты", "Статьи", "Гайды", "Карты"],
+  "items": [
+    {
+      "id": "1",
+      "title": "Aim Botz — Workshop Map",
+      "cat": "Карты",
+      "desc": "Классика для разминки перед матчем. Основная карта для тренировки стрельбы по ботам.",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3070244462",
+      "img": "https://images.steamusercontent.com/ugc/2200631506775957080/E0956458913A0AAA76286018685331D4E7C283ED/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"
+    },
+    {
+      "id": "2",
+      "title": "Recoil Master - Spray Training (CS2)",
+      "cat": "Карты",
+      "desc": "Тренажер контроля отдачи (спрея) для всех видов оружия.",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3100869952",
+      "img": "https://images.steamusercontent.com/ugc/2307594539200909280/D6EC5A3E351A22474190BEF43122C069AA5BF1D0/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"
+    },
+    {
+      "id": "3",
+      "title": "Crosshair Gen",
+      "cat": "Карты",
+      "desc": "Карта для быстрой смены прицела прямо внутри игры.",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?l=ukrainian&id=308490450",
+      "img": "https://images.steamusercontent.com/ugc/147885549587110112/73F84D0FBC858E5FDA98B25FE3E4C74ED08914DB/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"
+    },
+    {
+      "id": "4",
+      "title": "CSStats Training",
+      "cat": "Карты",
+      "desc": "Продвинутый тир с режимами для тренировки реакции.",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3070389038",
+      "img": "https://images.steamusercontent.com/ugc/17314506330885871719/430E40551F1E01378620E2D755F1ABF53F2746AD/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"
+    },
+    {
+      "id": "5",
+      "title": "Surf_Kitsune",
+      "cat": "Карты",
+      "desc": "Культовая карта для тренировки плавного перемещения (Surf).",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3076153623",
+      "img": "https://images.steamusercontent.com/ugc/2173610546883177974/67262154827E24BC54815C7280142BD3E3D51710/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"
+    },
+    {
+      "id": "6",
+      "title": "Grotto (KZ)",
+      "cat": "Карты",
+      "desc": "Одна из самых популярных карт для тренировки прыжков и паркура.",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3121168339",
+      "img": "https://images.steamusercontent.com/ugc/2297464214289165642/DFE099177A13F60611A0DF50C9CBEADD08D319CF/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"
+    },
+    {
+      "id": "7",
+      "title": "Refrag Prefire",
+      "cat": "Карты",
+      "desc": "Серия карт для заучивания позиций врагов (Prefire Mode).",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?l=russian&id=2689344833",
+      "img": "https://images.steamusercontent.com/ugc/1865051555564000393/80107FB83F1174817BEB99E2ACBD372432E3888B/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"
+    },
+    {
+      "id": "8",
+      "title": "Viewmodel Gen",
+      "cat": "Карты",
+      "desc": "Удобный стенд для настройки положения оружия на экране.",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?l=ukrainian&id=3070284069&searchtext=",
+      "img": "https://images.steamusercontent.com/ugc/5983665599865429539/4FAD77685D8DAAB87CB631F6766D1D7982C4CA6B/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"
+    },
+    {
+      "id": "9",
+      "title": "Dust 2 Utility",
+      "cat": "Карты",
+      "desc": "Карта со встроенными подсказками по раскидке смоков на Dust 2.",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3360435602",
+      "img": "https://images.steamusercontent.com/ugc/2434851666345723159/00EA1A2A7A7782920E4895B7871F896BD8D2DDF1/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"
+    },
+    {
+      "id": "10",
+      "title": "Only Up! CS2",
+      "cat": "Карты",
+      "desc": "Развлекательная карта-челлендж на мувмент и терпение.",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?l=russian&id=3012684086",
+      "img": "https://images.steamusercontent.com/ugc/2050877940590245018/4A2077F218FC28706835672B3CDB8B2B0732F0F1/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"
+    },
+    {
+      "id": "11",
+      "title": "Leetify",
+      "cat": "Инструменты",
+      "desc": "Глубокий анализ твоих матчей: точность, использование гранат и сравнение с про-игроками.",
+      "url": "https://leetify.com",
+      "img": "https://leetify.com/assets/images/leetify-logo-primary-white.svg"
+    },
+    {
+      "id": "12",
+      "title": "CS2 Case Tracker",
+      "cat": "Инструменты",
+      "desc": "База данных скинов и проверка «флоата» (износа) предметов.",
+      "url": "https://csgofloat.com",
+      "img": "https://csfloat.com/assets/icons/logo.png"
+    },
+    {
+      "id": "13",
+      "title": "Total CS2 Commands",
+      "cat": "Инструменты",
+      "desc": "Самый полный список консольных команд с удобным поиском и фильтрами.",
+      "url": "https://totalcsgo.com/commands",
+      "img": "https://totalcsgo.com/assets/branding/logo-cs.png"
+    },
+    {
+      "id": "14",
+      "title": "Scope.gg",
+      "cat": "Инструменты",
+      "desc": "Сервис для разбора демок: показывает твои ошибки в позиционировании и таймингах.",
+      "url": "https://scope.gg",
+      "img": "https://app.scope.gg/static/meta-images/en/landing.jpg"
+    },
+    {
+      "id": "15",
+      "title": "CS2 Bind Generator",
+      "cat": "Инструменты",
+      "desc": "Онлайн-конструктор для создания сложных биндов (например, на прыжок с броском гранаты).",
+      "url": "https://www.cs2bindsgenerator.com/",
+      "img": ""
+    },
+    {
+      "id": "16",
+      "title": "DMarket Stats",
+      "cat": "Инструменты",
+      "desc": "Удобный трекер цен на скины и аналитика рынка в реальном времени.",
+      "url": "https://dmarket.com",
+      "img": "https://cdn.aptoide.com/imgs/6/4/e/64e904427c715734d3f48af860555351_fgraphic.png"
+    },
+    {
+      "id": "17",
+      "title": "CS2 Inspect",
+      "cat": "Инструменты",
+      "desc": "Позволяет генерировать ссылки для осмотра любого скина/ножа в игре.",
+      "url": "https://cs2inspect.com",
+      "img": "https://cs2inspects.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.621a2de5.webp&w=256&q=75"
+    },
+    {
+      "id": "18",
+      "title": "Faceit Finder",
+      "cat": "Инструменты",
+      "desc": "Быстрый поиск профиля Faceit по ссылке на Steam (уровень, статистика, бан).",
+      "url": "https://faceitfinder.com",
+      "img": "https://faceitfinder.com/themes/dark/images/faceit_logo.svg"
+    },
+    {
+      "id": "19",
+      "title": "ProSettings",
+      "cat": "Инструменты",
+      "desc": "База актуальных настроек (DPI, разрешение, сенс) всех топ-игроков.",
+      "url": "https://prosettings.net",
+      "img": "https://prosettings.net/wp-content/uploads/prosettings-logo-250x45-2x.png"
+    },
+    {
+      "id": "20",
+      "title": "Convars",
+      "cat": "Инструменты",
+      "desc": "Интерактивные гайды по настройке сервера и расширенные консольные команды.",
+      "url": "https://convars.com",
+      "img": "https://convars.com/imgs/logo2.png"
+    },
+    {
+      "id": "21",
+      "title": "HLTV.org",
+      "cat": "Статьи",
+      "desc": "Главный мировой ресурс: рейтинги команд, результаты всех матчей и новости трансферов.",
+      "url": "https://hltv.org",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/3/30/HLTV_logo_2017.svg"
+    },
+    {
+      "id": "22",
+      "title": "Liquipedia CS",
+      "cat": "Статьи",
+      "desc": "Википедия по игре: история команд, призовые фонды и настройки конфигов про-игроков.",
+      "url": "https://liquipedia.net",
+      "img": "https://liquipedia.net/commons/images/2/2c/Liquipedia_logo.png"
+    },
+    {
+      "id": "23",
+      "title": "Escorenews",
+      "cat": "Статьи",
+      "desc": "Крупный СНГ-портал с актуальными интервью и переводами зарубежных инсайдов.",
+      "url": "https://escorenews.com/ru",
+      "img": "https://escorenews.com/img/logo.svg"
+    },
+    {
+      "id": "24",
+      "title": "CS.Money Blog",
+      "cat": "Статьи",
+      "desc": "Статьи про экономику скинов, инвестиции и разборы обновлений Valve.",
+      "url": "https://cs.money/blog",
+      "img": ""
+    },
+    {
+      "id": "25",
+      "title": "Reddit CS2",
+      "cat": "Статьи",
+      "desc": "Главная площадка, где игроки первыми постят найденные баги и фишки.",
+      "url": "https://reddit.com/r/cs2",
+      "img": ""
+    },
+    {
+      "id": "26",
+      "title": "Cybersport.ru",
+      "cat": "Статьи",
+      "desc": "Крупнейший российский портал с гайдами по оптимизации и новостями.",
+      "url": "https://cybersport.ru/cs2",
+      "img": ""
+    },
+    {
+      "id": "27",
+      "title": "Pley.gg",
+      "cat": "Статьи",
+      "desc": "Зарубежный ресурс с глубокой аналитикой матчей и интервью с про-сцены.",
+      "url": "https://pley.gg",
+      "img": ""
+    },
+    {
+      "id": "28",
+      "title": "Esports Charts",
+      "cat": "Статьи",
+      "desc": "Статистика просмотров турниров: какие матчи были самыми популярными.",
+      "url": "https://escharts.com",
+      "img": ""
+    },
+    {
+      "id": "29",
+      "title": "Steam News",
+      "cat": "Статьи",
+      "desc": "Официальный блог разработчиков Valve — чейнджлоги патчей из первых рук.",
+      "url": "https://store.steampowered.com",
+      "img": ""
+    },
+    {
+      "id": "30",
+      "title": "Dust2.us",
+      "cat": "Статьи",
+      "desc": "Главный ресурс по американскому и мировому CS-сообществу.",
+      "url": "https://dust2.us",
+      "img": ""
+    },
+    {
+      "id": "31",
+      "title": "NadeKing YouTube",
+      "cat": "Гайды",
+      "desc": "Короткие и динамичные видео с самыми полезными фишками и гранатами.",
+      "url": "https://youtube.com/@NadeKing",
+      "img": ""
+    },
+    {
+      "id": "32",
+      "title": "CS2 Smokes Guide",
+      "cat": "Гайды",
+      "desc": "Интерактивная карта: выбираешь точку на карте и видишь видео, как туда кинуть смок.",
+      "url": "https://cs2.app/smokes",
+      "img": ""
+    },
+    {
+      "id": "33",
+      "title": "AustinCS Shorts",
+      "cat": "Гайды",
+      "desc": "Быстрые гайды по 60 секунд о том, как улучшить графику и FPS.",
+      "url": "https://youtube.com/@AustinCS",
+      "img": ""
+    },
+    {
+      "id": "34",
+      "title": "Voo CSGO Strategy",
+      "cat": "Гайды",
+      "desc": "Фундаментальные видео о том, как правильно думать во время матча (Decision Making).",
+      "url": "https://youtube.com/@voocsgo",
+      "img": ""
+    },
+    {
+      "id": "35",
+      "title": "PimpCS2 Guides",
+      "cat": "Гайды",
+      "desc": "Разборы профессиональных матчей от аналитика мирового уровня.",
+      "url": "https://youtube.com/@PimpCS2",
+      "img": ""
+    },
+    {
+      "id": "36",
+      "title": "Refrag YouTube",
+      "cat": "Гайды",
+      "desc": "Самые современные гайды по механике стрельбы и пиков в CS2.",
+      "url": "https://youtube.com/@Refraggg",
+      "img": ""
+    },
+    {
+      "id": "37",
+      "title": "CS2 Nades",
+      "cat": "Гайды",
+      "desc": "Библиотека раскидок с видео-превью для каждой гранаты на всех картах.",
+      "url": "https://cs2nades.com",
+      "img": ""
+    },
+    {
+      "id": "38",
+      "title": "Mauisnake",
+      "cat": "Гайды",
+      "desc": "Профессиональный разбор ошибок позиционирования и командной игры.",
+      "url": "https://youtube.com/@Mauisnake",
+      "img": ""
+    },
+    {
+      "id": "39",
+      "title": "Launders",
+      "cat": "Гайды",
+      "desc": "Эстетичные разборы стиля игры топовых аимеров (Donk, NiKo).",
+      "url": "https://youtube.com/@launders",
+      "img": ""
+    },
+    {
+      "id": "40",
+      "title": "Hawka",
+      "cat": "Гайды",
+      "desc": "Глубокие видео о том, как работают обновления и изменения в коде игры.",
+      "url": "https://youtube.com/@HawkaCS",
+      "img": ""
+    }
+  ]
+}
